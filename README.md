@@ -8,7 +8,7 @@
  
  - 🔭 Buscando un trabajo para poder dar todo de mi
 
- - 💬 Contacta conmigo ...(https://www.linkedin.com/in/raquel-casares-de-la-poza-9a363b25b/)
+ - 💬 Contacta conmigo ...[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://www.linkedin.com/in/raquel-casares-de-la-poza-9a363b25b/)
    
  - 😄 
  
