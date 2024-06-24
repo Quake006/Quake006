@@ -1,0 +1,269 @@
+.icono_contacto{
+  color:   #9458e0  ;
+  transition-duration: 1s;
+  transition-property: color;
+}
+
+.icono_contacto:hover{
+  color: #9458e0;
+    text-shadow: 0 0 10px #eb10ff;
+}
+
+.barra-mobiles {
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(8px);
+
+}
+
+#nav-tab{
+  background-color:  #3a0e56 ;
+  border-radius: 16px;
+}
+
+.SubTitulos{
+  color: var(--color-subtitulos);
+  font-size: 0.75rem;
+  font-family: var(--fuente-titulos);
+  font-weight: 400;
+}
+
+.Titulo{
+  color: var(--color-titulos);
+  font-size: 1.25rem;
+  font-family: var(--fuente-titulos);
+  font-weight: 600;
+}
+
+.TituloQuienSoy{
+  color: var(--color-titulos);
+  font-size: 2.25rem;
+  font-family: var(--fuente-titulos);
+  font-weight: 600;
+}
+
+.SubTitulosQuienSoy{
+  color: var(--color-subtitulos);
+  font-size: 1.4rem;
+  font-family: var(--fuente-titulos);
+  font-weight: 400;
+}
+
+.ParrafoQuienSoy{
+  color: var(--color-subtitulos);
+  font-size: 0.9rem;
+  font-family: var(--fuente-titulos);
+  font-weight: 400;
+}
+
+.TituloSecciones{
+  color: var(--color-titulos);
+  font-size: 2.30rem;
+  font-family: var(--fuente-titulos);
+  font-weight: 600;
+}
+
+.proyPeluditos{
+  background-image: url("../img/proyectos/miPeluditoSOS.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  box-shadow:  -2px -2px 1px #9e36e1,
+   2px 2px 1px #eb10ff;
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyPeluditos:hover{
+  transform: scale(1.1);
+}
+
+.proyComprasApp{
+  background-image: url("../img/proyectos/misCompras.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  box-shadow:  -2px -2px 1px #9e36e1,
+   2px 2px 1px #eb10ff;
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyComprasApp:hover{
+  transform: scale(1.1);
+}
+
+.proyEgiptoWeb{
+  background-image: url("../img/proyectos/egiptoWeb.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  box-shadow:  -2px -2px 1px #9e36e1,
+   2px 2px 1px #eb10ff;
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyEgiptoWeb:hover{
+  transform: scale(1.1);
+}
+
+.proyMyAvatar{
+  background-image: url("../img/proyectos/myAvatar.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  box-shadow:  -2px -2px 1px #9e36e1,
+   2px 2px 1px #eb10ff;
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyMyAvatar:hover{
+  transform: scale(1.1);
+}
+
+.proyMiTiendecita{
+  background-image: url("../img/proyectos/miTiendecita.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  box-shadow:  -2px -2px 1px #9e36e1,
+   2px 2px 1px #eb10ff;
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyMiTiendecita:hover{
+  transform: scale(1.1);
+}
+
+.proyProgramaGestion{
+  background-image: url("../img/proyectos/programaGestion.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  box-shadow:  -2px -2px 1px #9e36e1,
+   2px 2px 1px #eb10ff;
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyProgramaGestion:hover{
+  transform: scale(1.1);
+}
+
+.proyBlog{
+  background-image: url("../img/proyectos/blog.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  box-shadow:  -2px -2px 1px #9e36e1,
+   2px 2px 1px #eb10ff;
+  transition-duration: 1s;
+}
+
+.proyBlog:hover{
+  background-image: url("../img/proyectos/blog.png");
+  border-radius: 46px;
+  box-shadow:  -10px -10px 10px #eb10ff,
+   10px 10px 10px #9e36e1;
+  transform: scale(1);
+  transition-duration: 1s;
+}
+
+
+/* Colores de fondo para botones */
+
+.nav-link, .nav-link:focus ,.nav-link:hover{
+  color: white !important;
+  background-color: var(--color-fondo) !important;
+}
+
+.nav-link, .nav-link:visited{
+  background-color: transparent !important;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited  {
+  background-color: #7D0AB3 !important;
+  border-color: #7D0AB3 !important;
+}
+
+.btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:active, .btn-outline-primary:visited {
+  border-color: #7D0AB3 !important;
+}
+
+/* Varios */
+
+h2 {
+  color: var(--color-titulos);
+  font-family: var(--fuente-titulos);
+  font-size: 1.75rem;
+  font-weight: 900;
+  text-align: center;
+}
+
+p {
+  color: var(--color-titulos);
+  font-size: 1rem;
+  font-family: var(--fuente-titulos);
+  font-weight: 300;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+/* Sección Sobre Mí */
+
+#sobreMi {
+  padding-top: 5rem;
+}
+
+.sobreMi-data {
+  padding-left: 5rem;
+}
+
+.sobreMi-info{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 1rem;
+  padding-bottom: 2.5rem;
+}
+
+.sobreMi-info-box {
+  padding-inline: 1rem;
+}
+
+.img-sobreMi-estilo {
+  border-radius: 10px;
+}
+
+/* Sección Habilidades */
+
+#habilidades {
+  padding-top: 9rem;
+}
+
+/* Sección Proyectos */
+
+#proyectos {
+  padding-top: 6rem;
+}
+
+/* Sección Experiencia */
+
+#experiencia {
+  padding-top: 6rem;
+}
+
+/* Sección Contacto */
+
+#contacto {
+  padding-top: 6rem;
+}
+
+.button:hover{
+  cursor: pointer;
+}
