@@ -4,13 +4,13 @@
   <h3>Junior Developer</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🌱 Aprendiendo cosas nuevas
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🔭 Buscando un trabajo para poder dar todo de mi
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 💬 Contacta conmigo ...(https://www.linkedin.com/in/raquel-casares-de-la-poza-9a363b25b/)
+   
+ - 😄 
  
  <p align="center">
    <a href="https://raquelcasaresdelapoza-miportfolio.netlify.app">
