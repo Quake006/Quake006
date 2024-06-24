@@ -12,7 +12,7 @@
    
 
  <h3 align="center">
-   👉🏼 <b><i><a href="https://raquelcasaresdelapoza-miportfolio.netlify.app" target="blank">Mi Portfolio ¡Échale un vistazo!</i></b> 😄</h3></a>
+   👉🏼 <b><i><a href="https://raquelcasaresdelapoza-miportfolio.netlify.app/" target="blank">Mi Portfolio ¡Échale un vistazo!</i></b> 😄</h3></a>
  
 <!--
 **Quake006/Quake006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
