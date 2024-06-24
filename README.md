@@ -12,7 +12,7 @@
    
 
  <h4 align="center">
-    <a href="(https://raquelcasaresdelapoza-miportfolio.netlify.app)" target="blank"><b><u>Mi Portfilio</u></b> ¡Échale un vistazo! 😄 </h4></a>
+    <a href="https://raquelcasaresdelapoza-miportfolio.netlify.app" target="blank"><b><u>Mi Portfilio</u></b> ¡Échale un vistazo! 😄 </h4></a>
  
 <!--
  <p align="center">
