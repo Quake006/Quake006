@@ -1,5 +1,5 @@
 ## Hi there 👋
-![fotoContacto2](https://github.com/Quake006/Quake006/assets/96543702/71e4aab7-836d-49c3-aa89-6dc41bdad997)
+<img src="MiPortfolio/img/otras/fotoContacto2.png" width="500px;" alt="fotoContacto2"/>
 <!--
 **Quake006/Quake006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--START_SECTION:top-followers-->
+<!--START_SECTION:proyectos-->
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
+        <img src="MiPortfolio/img/proyectos/miPeluditoSOS.png"" width="100px;" alt="wizardforcel"/>
       </a>
       <br />
       <a href="https://github.com/wizardforcel">布客飞龙</a>
