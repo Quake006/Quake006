@@ -18,30 +18,24 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="MiPortfolio/img/proyectos/miPeluditoSOS.png"" width="100px;" alt="wizardforcel"/>
+      <a href="MiPortfolio/img/proyectos/miPeluditoSOS.png">
+        <img src="MiPortfolio/img/proyectos/miPeluditoSOS.png" width="300px;" alt="MiPeluditoSOS"/>
       </a>
       <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
+      <a href="MiPortfolio/img/proyectos/miPeluditoSOS.png">Web Caninoterapia / MiPeluditoSOS</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      <a href="MiPortfolio/pdf/Proyecto Integrado-Raquel Casares De la Poza.pdf">
+        <img src="MiPortfolio/img/proyectos//misCompras.png" width="300px;" alt="MisComprasApp"/>
       </a>
       <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
+      <a href="MiPortfolio/pdf/Proyecto Integrado-Raquel Casares De la Poza.pdf">App Android / MisComprasApp</a>
     </td>
     <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      <a href="https://66769bc1ff107b66af3e5048--statuesque-starlight-321dab.netlify.app/">
+         <img src="MiPortfolio/img/proyectos/egiptoWeb.png" width="300px;" alt="EgiptoWeb"/>
       </a>
       <br />
-      <a href="https://github.com/EndlessCheng">灵茶山艾府</a>
+      <a href="https://66769bc1ff107b66af3e5048--statuesque-starlight-321dab.netlify.app/">EgiptoWeb</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
-      </a>
-      <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
-    </td>
+  </tr>
