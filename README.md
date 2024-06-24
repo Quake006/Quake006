@@ -13,7 +13,7 @@
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
  <p align="center">
-   <a href="https://raquelcasaresdelapoza-miportfolio.netlify.app" target="_blank">
+   <a href="https://raquelcasaresdelapoza-miportfolio.netlify.app">
   <h4>👉🏼 <b><u>Mi Portfilio</u></b> ¡Échale un vistazo! </h4></a>
    </p>
 <!--
