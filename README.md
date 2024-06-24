@@ -1,5 +1,21 @@
-## Hola soy Raquel 👋
-<img src="MiPortfolio/img/otras/fotoContacto2.png" width="500px;" alt="fotoContacto2"/>
+## Hola soy Raquel 👋😼
+<img src="MiPortfolio/img/otras/fotoContacto2.png" align="right" width="500px;" alt="fotoContacto2" />
+<p align="center">
+  <h3>Junior Developer</h3>
+</p>
+
+ - 🥀 Learning Swift & Objective_C
+ 
+ - <i>with Javascript, Typescript, React and 69 others.</i>
+   
+ - 🔭 SpaceX FanBoi, die for space😼
+
+ - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ 
+ <p align="center">
+         <a href="raquelcasaresdelapoza-miportfolio.netlify.app">
+  <h4>👉🏼 <b><u>Mi Portfilio</u></b> ¡Échale un vistazo! </h4></a>
+   </p>
 <!--
 **Quake006/Quake006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
