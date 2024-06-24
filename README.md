@@ -6,7 +6,7 @@
 
  - 🌱 Aprendiendo cosas nuevas.
  
- - 🔭 Buscando un trabajo para poder dar todo de mi.
+ - 🔭 Buscando un trabajo para poder dar todo de mí.
 
  - 💬 Contacta conmigo  &nbsp;&nbsp; [<img src="MiPortfolio/img/otras/linkedln.png"  width="25px">](https://www.linkedin.com/in/raquel-casares-de-la-poza-9a363b25b/)
    
